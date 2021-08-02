@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>500972294356-97vuqlsphmmve3grclbol5g4iemms2gd.apps.googleusercontent.com</string>
+	<string>289692394977-cl7kf0scacfkujqnt10kj61ctp263qlv.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.500972294356-97vuqlsphmmve3grclbol5g4iemms2gd</string>
+	<string>com.googleusercontent.apps.289692394977-cl7kf0scacfkujqnt10kj61ctp263qlv</string>
 	<key>API_KEY</key>
-	<string>AIzaSyAACu-4y0rFUcX7a9pQiffymVVX2HwKm8I</string>
+	<string>AIzaSyD2fKat-AszKCUpBJKTbhL2soMZjdqw-wQ</string>
 	<key>GCM_SENDER_ID</key>
-	<string>500972294356</string>
+	<string>289692394977</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>nz.org.quit.test</string>
 	<key>PROJECT_ID</key>
-	<string>capacitor-testapp</string>
+	<string>quitline-c3784</string>
 	<key>STORAGE_BUCKET</key>
-	<string>capacitor-testapp.appspot.com</string>
+	<string>quitline-c3784.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:500972294356:ios:4f8cc8df56c918fdbeeb41</string>
+	<string>1:289692394977:ios:4e1be1e77afcaf048a1ea0</string>
 </dict>
 </plist>
