@@ -22,5 +22,5 @@
   },
   "include": [
     "src"
-  ]
+, "firebase-messaging-sw.js"  ]
 }

@@ -1,5 +1,5 @@
 {
-	"appId": "com.capacitorjs.app.testapp",
+	"appId": "nz.org.quit.test",
 	"appName": "capacitor-testapp",
 	"webDir": "build",
 	"plugins": {
@@ -12,6 +12,7 @@
 		},
 		"PushNotifications": {
 			"presentationOptions": [
+				"badge",
 				"alert",
 				"sound"
 			]

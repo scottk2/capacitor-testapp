@@ -5,7 +5,7 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'com.capacitorjs.app.testapp',
+  appId: 'nz.org.quit.test',
   appName: 'capacitor-testapp',
   webDir: 'build',
   plugins: {
@@ -17,8 +17,8 @@ const config: CapacitorConfig = {
       iconColor: '#CE0B7C',
     },
     PushNotifications: {
-      presentationOptions: ["alert", "sound"]
-    }
+      presentationOptions: ['badge', 'alert', 'sound'],
+    },
   },
 };
 

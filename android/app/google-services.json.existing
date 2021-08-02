@@ -1,37 +1,37 @@
 {
   "project_info": {
-    "project_number": "289692394977",
-    "project_id": "quitline-c3784",
-    "storage_bucket": "quitline-c3784.appspot.com"
+    "project_number": "500972294356",
+    "project_id": "capacitor-testapp",
+    "storage_bucket": "capacitor-testapp.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:289692394977:android:7603282b24839a468a1ea0",
+        "mobilesdk_app_id": "1:500972294356:android:1090debb4688ba86beeb41",
         "android_client_info": {
           "package_name": "nz.org.quit.test"
         }
       },
       "oauth_client": [
         {
-          "client_id": "289692394977-jup8vquj7ge67fkl30f8ooja052j6nha.apps.googleusercontent.com",
+          "client_id": "500972294356-4c66s2ndbufk97cvicj5vnn08va4r1pi.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD0rJ-9ufmwCR8_CQNb9wzMeNl3Ns9sdvc"
+          "current_key": "AIzaSyDp29rygBDnDPWmIn9Kdah8gXCK8WZLiZc"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "289692394977-jup8vquj7ge67fkl30f8ooja052j6nha.apps.googleusercontent.com",
+              "client_id": "500972294356-4c66s2ndbufk97cvicj5vnn08va4r1pi.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "289692394977-cl7kf0scacfkujqnt10kj61ctp263qlv.apps.googleusercontent.com",
+              "client_id": "500972294356-97vuqlsphmmve3grclbol5g4iemms2gd.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
                 "bundle_id": "nz.org.quit.test"

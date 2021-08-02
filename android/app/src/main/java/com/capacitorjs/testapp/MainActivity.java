@@ -1,4 +1,4 @@
-package com.capacitorjs.app.testapp;
+package nz.org.quit.test;
 
 import com.getcapacitor.BridgeActivity;
 
