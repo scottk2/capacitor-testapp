@@ -30,7 +30,6 @@ import './theme/global.css';
 import firebase from 'firebase/app';
 import 'firebase/firebase-analytics';
 import 'firebase/firebase-messaging';
-import { convertToObject } from 'typescript';
 
 var firebaseConfig = {
   apiKey: 'AIzaSyAu9sHdDuMUsZvR6R5RoIkb3YAn_vkKvdg',
@@ -174,7 +173,7 @@ function appendMessage(payload) {
 
 // Clear the messages element of all children.
 function clearMessages() {
-  const messagesElement = document.querySelector('#messages');
+  const messagesElement = document.querySelector('#messages');nee
   while (messagesElement.hasChildNodes()) {
     messagesElement.removeChild(messagesElement.lastChild);
   }
