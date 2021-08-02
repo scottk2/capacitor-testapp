@@ -173,7 +173,7 @@ function appendMessage(payload) {
 
 // Clear the messages element of all children.
 function clearMessages() {
-  const messagesElement = document.querySelector('#messages');nee
+  const messagesElement = document.querySelector('#messages');
   while (messagesElement.hasChildNodes()) {
     messagesElement.removeChild(messagesElement.lastChild);
   }
